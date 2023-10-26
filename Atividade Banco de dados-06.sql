@@ -1,0 +1,24 @@
+CREATE TABLE ALUNO (
+
+  ID SERIAL PRIMARY KEY,
+    NOME VARCHAR(255),
+    EMAIL VARCHAR(255),
+    ENDERECO VARCHAR(255)
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
